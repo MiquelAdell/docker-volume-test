@@ -1,0 +1,5 @@
+test:
+  image: test
+  volumes:
+    # change that to your local path
+     - /Users/miqueladell/code/test/html:/var/www/html/
